@@ -1,0 +1,23 @@
+lines:-
+1-12:-  Import necessary libraries and packages
+20-26:- reading corpus and tokenisation
+27-34:- preproceesing We shall now define a function called LemTokens which will take as input the tokens and return normalizedtokens  
+38:- giving inputs
+39:- giving responses
+40-48:- resonses and inputs
+49-64:- If it doesn’t find the input matching any of the keywords, it returns a response:” I am sorry! I don’t understand you”
+67-85:- Finally, we will feed the lines that we want our bot to say while starting and ending a conversation depending upon user’s input.
+
+
+
+
+output:-
+ ROBO: My name is Robo. I will answer your queries about Chatbots. If you want to exit, type Bye!
+hi
+ROBO: hey
+hello
+ROBO: hey
+how are you
+ROBO:good
+bye
+ROBO: Bye! take care..
